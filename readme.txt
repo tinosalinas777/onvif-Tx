@@ -5,3 +5,5 @@ https://www.happytimesoft.com/downloads/vs2017-vcredist_x86.exe
 
 VS2017 x64 redistributable package:
 https://www.happytimesoft.com/downloads/vs2017-vcredist_x64.exe
+
+a esta version del programa le faltan arreglos como boton para detener la transmision
